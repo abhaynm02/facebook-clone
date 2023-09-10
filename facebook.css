@@ -1,0 +1,109 @@
+.mainbody{
+    background: #f0f2f5;
+    width: 100%;
+    height: 700px;
+   
+}
+body{
+    margin: 0;
+}
+.left-section{
+    float: left;
+    width: 55%;
+    height: 600px;
+    
+}
+.image{
+    height: 118px;
+    margin: -28px;
+    padding-top: 191px;
+    padding-left: 278px;
+}
+.h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    
+    
+    padding-left: 288px;;
+}
+.right-section{
+    float: left;
+    width: 45%;
+    height: 600px;
+
+}
+.form{
+    height: 27px;
+    font-size: 13px;
+}
+.login-section{
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+   
+    width: 411px;
+    height: 374px;
+    margin-top: 150px;
+    margin-left: 43px;
+}
+.login{
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    height: 55px;
+    width: 374px;
+    margin-left: 15px;
+    margin-top: 11px;
+    font-size: 20px;
+    padding: 14px 16px;
+}
+.lg{
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    height: 55px;
+    width: 374px;
+    margin-left: 15px;
+    margin-top: 11px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.forg{
+    margin-left: 123px;
+    margin-top: 19px;
+    font-size: 17px;
+    text-decoration: none;
+}
+.divf{
+    width: 374px;
+    height: 30px;
+    margin-top: 19px
+
+}
+.create{
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    height: 55px;
+    width: 200px;
+    margin-left: 102px;
+    margin-top: 23px;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+
